@@ -9,7 +9,6 @@ and patients. Additionally, it streamlines the prescription process, reducing th
 person visits and improving accessibility to medical care. 
 
 [PathoLab.pdf](https://github.com/user-attachments/files/25161416/PathoLab.pdf)
-<img width="975" height="607" alt="image" src="https://github.com/user-attachments/assets/e5be1ad6-89f1-4c9f-b94b-8fb2d4041e59" />
 
 <img width="975" height="890" alt="image" src="https://github.com/user-attachments/assets/979067f1-6bdd-4078-8792-dbac8216dbf0" />
 
