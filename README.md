@@ -1,7 +1,9 @@
 # PathoLab
 Languages used: Java, Servlets, JSP, SQL. 
 
-Online pathology website that allows doctors to check patients and issue medicines remotely. Doctors can easily access patient information and prescribe medicines  
+Online pathology website that allows doctors to check patients and issue medicines remotely. Doctors can easily access patient information and prescribe medicines.
+
+[PathoLab.pdf](https://github.com/user-attachments/files/25161416/PathoLab.pdf)
 
 ![image](https://github.com/user-attachments/assets/ba553d61-6d51-46f6-9274-fbd55ea329dd)
 
